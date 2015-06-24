@@ -43,7 +43,7 @@
 DEFAULT_ACTIVATION_KEY=“RHEL6_DEV1”
 
 ## The hostname of the satellite6 server
-SAT6_HOSTNAME="acopua07"
+SAT6_HOSTNAME="hostname"
 
 
 ################################################################################
